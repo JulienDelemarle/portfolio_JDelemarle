@@ -37,7 +37,7 @@ p{
 
 .intro{
     position: relative;
-    padding-top: 300px;
+    padding-top: 280px;
     height: 100vh;
     background:url(img/background_crop.jpg) center center / cover  no-repeat;    
 }
@@ -60,7 +60,7 @@ p{
 
 .intro-button{
     position: absolute;
-    top: 85%;
+    top: 92%;
     left:calc(50% - 40px) ;
     bottom: 0;
     width: 70px;
