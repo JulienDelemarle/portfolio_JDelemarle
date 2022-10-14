@@ -57,7 +57,7 @@ p{
 }
 
 .name{
-    font-size: 5rem;
+    font-size: 5.5rem;
     padding-bottom: 10px;
 }
 
@@ -102,6 +102,7 @@ p{
     font-size: 1.5em;
     line-height: 1.4em;
     color: rgb(177, 166, 166);
+    font-weight: 400;
     padding-bottom: 20px;    
 }
 
@@ -148,27 +149,27 @@ p{
     border: none;
     border-radius: 150px;
     background: #fff;
-    color: rgb(177, 166, 166);
-      
+    color: rgb(177, 166, 166);     
 }
 
 .course-date p{
     font-size: 1.4em;
     font-weight: 700;
     text-align:center;
+
 }
 
 .course-content{
-    width: 900px;
+    width: 950px;
     height: auto;
     margin-left: 100px;
-    padding: 10px 0 0 20px;
+    padding: 10px 5px 0 20px;
     background: rgb(235, 166, 63);
     border-radius: 20px;
 }
 
 .course-title{
-    font-size: 2.5em;
+    font-size: 2.2em;
     color: rgb(248, 242, 242);
     font-weight: bold;
     padding-bottom: 10px;
